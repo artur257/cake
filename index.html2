@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Свадебные торты</title>
+  <link href="file:///C:/projects/cake/style.css2" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+  <div class="menu">
+  <h1 align="center" class="text"><em>Свадебные торты</em></h1>
+  <img class="img" src="15.gif" width="300" height="300">
+  <img class="img1" src="15113.jpg" width="300" height="300">
+  <img class="img2" src="160407.jpg" width="300" height="300">
+  </div>
+  </body>
+  </html>

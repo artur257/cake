@@ -1,0 +1,16 @@
+body {
+ background-color:#FF9BFA;
+ }
+ 
+.menu {
+     border-radius: 20px; 
+	 background-image:url(1814.png);
+	 margin: 0px 150px 0 150px;
+ }
+ .img {
+ position:relative;
+ margin: 50px 1200px 0 100px;
+ }
+ .text {
+ color:#E20071;
+ }

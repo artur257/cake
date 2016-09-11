@@ -1,0 +1,32 @@
+ body {
+	 background-image:url(1770.png);
+ }
+ .header {
+	border-radius: 20px; 
+	 background-image:url(1318.png);
+	 margin: 0px 150px 0 150px;
+	 }
+ .text {
+	 max-width: 500px 500px 500px 500px;
+	 padding: 200px 200px 200px 200px;
+	 border-right: 10px solid red;
+	 padding: 0 10px;
+	 margin: 0 10%;
+ }
+ .menu {
+	 border-radius: 10px;
+	 float:left;
+ }
+ .ground {
+	 border-radius: 20px;
+	 background-image:url(1771.png);
+ height: 100px;
+ }
+ .menu {
+	 background-image:url(1150.png);
+ }
+ .cap {
+ }
+ .turn {
+	 color:#FFD400;
+ }

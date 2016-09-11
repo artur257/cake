@@ -1,0 +1,11 @@
+ body {
+ background-color:#D428FF;
+ }
+ .menu {
+ border-radius: 20px; 
+ background-color:#F0F4FF;
+ margin: 0px 150px 0 150px;
+ }
+ .text {
+ color:#FF0008;
+ }

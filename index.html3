@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Торты для дня рождения</title>
+  <link href="file:///C:/projects/cake/style.css3" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+  <div class="menu">
+  <div>
+    <img class="img2" src="5.jpg" width="1033" height="400">
+  </div>
+  <h1 align="center"><em>Торты для дня рождения</em></h1>
+  <img class="img" src="223.jpg" width="300" height="300">
+  <img class="img1" src="4.jpg" width="300" height="300">
+  </div>
+  </body>
+  </html>

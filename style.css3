@@ -1,0 +1,8 @@
+body {
+ background-image:url(1791.png);
+}
+.menu {
+border-radius: 20px;
+background-image:url(1780.png);
+margin: 0px 150px 0 150px;
+}

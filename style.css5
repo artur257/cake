@@ -1,0 +1,6 @@
+ body {
+ background-color:#B55A4B;
+ }
+ .menu {
+ background-color:#9A331C;
+ }
